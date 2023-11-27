@@ -11,7 +11,7 @@
   <li><strong>ATK:</strong> attack 角色攻击属性</li>
   <li><strong>HP:</strong> hit points 角色生命值属性</li>
   <li><strong>ATR:</strong> range of attack 角色攻击范围属性</li>
-  <li><strong>PUR:</strong> attack 角色拾取范围属性</li>
+  <li><strong>PUR:</strong> range of pick up 角色拾取范围属性</li>
   <li><strong>FRE:</strong> freeze time 角色攻击冷却时间属性</li>
   <li><strong>TOR/Times_of_re:</strong> times of revive 复活次数（全局属性）</li>
   <li><strong>EXP:</strong> experience 经验值（单局属性）</li>
